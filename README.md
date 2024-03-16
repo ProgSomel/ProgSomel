@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **somelahmed55@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1V76PDBzfkABk8cqYukan9-4vUd70SaiP/view?usp=drive_link](https://drive.google.com/file/d/1V76PDBzfkABk8cqYukan9-4vUd70SaiP/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1V76PDBzfkABk8cqYukan9-4vUd70SaiP/view?usp=drive_link](https://drive.google.com/file/d/1KCSxKYL9OcXgRbBrOap19tlIXBv7nWj2/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
