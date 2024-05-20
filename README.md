@@ -1,40 +1,39 @@
 <div align="center">
  
  
-<img width="100%" src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg" alt="cover" />
+<img width="100%" src="https://raw.githubusercontent.com/ProgSomel/ProgSomel/main/banner.jpg" alt="cover" />
 </div>
-<span align="left"> <img src="https://komarev.com/ghpvc/?username=shakilahmedatik&label=Profile%20views&color=0e75b6&style=flat" alt="somelahmed" /> </span> 
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Somel</h1>  
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=ProgSomel&label=Profile%20views&color=0e75b6&style=flat" alt="ProgSomel" /> </span> 
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/ProgSomel/ProgSomel/main/hi.gif" width="50px" height="50px">, I'm Somel</h1>  
 <h3 align="center">A passionate Software Engineer from 🇧🇩</h3>  
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakilahmedatik&" alt="shakilahmedatik" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ProgSomel&" alt="ProgSomel" /></p>
 <br>
 
-<p align="center"> <a href="https://github.com/shakilahmedatik/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakilahmedatik&row=1&column=6&theme=onedark" alt="shakilahmedatik" /></a> </p>
+<p align="center"> <a href="https://github.com/ProgSomel/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ProgSomel&row=1&column=6&theme=onedark" alt="ProgSomel" /></a> </p>
 
 <h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working at [Programming Hero](https://www.programming-hero.com/)  
 
-- 🌱 I’m currently learning TypeScript, React-Native & Go.
+- 🌱 I’m currently learning TypeScript, React.js & Next.js
 
 - 💬 Talk to me about React, Node, Python, JavaScript, Freelancing Opportunities etc.
- - 📫 Reach me at **shakilatik@gmail.com**  
+ - 📫 Reach me at **somelahmed55@gmail.com**  
 
 <br>
   
 <h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
 <p align="left">  
-<a href="https://dev.to/shakilahmedatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shakilahmedatik" height="30" width="40" /></a>  
-<a href="https://twitter.com/shakilahmedatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shakilahmedatik" height="30" width="40" /></a>  
-<a href="https://linkedin.com/in/shakilahmedatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakilahmedatik" height="30" width="40" /></a>  
+<a href="https://dev.to/ProgSomel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ProgSomel" height="30" width="40" /></a>  
+<a href="https://twitter.com/shakilahmedatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ProgSomel" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/somelahmed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakilahmedatik" height="30" width="40" /></a>  
 <a href="https://stackoverflow.com/users/11409373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11409373" height="30" width="40" /></a>  
-<a href="https://fb.com/shakil.atik15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shakil.atik15" height="30" width="40" /></a>  
-<a href="https://instagram.com/__atik_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__atik_" height="30" width="40" /></a>  
-<a href="https://dribbble.com/shakilahmedatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="shakilahmedatik" height="30" width="40" /></a>  
-<a href="https://www.behance.net/shakilahmedatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shakilahmedatik" height="30" width="40" /></a>  
-<a href="https://medium.com/@shakilatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shakilatik" height="30" width="40" /></a>  
-<a href="https://www.youtube.com/c/hexacode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hexacode" height="30" width="40" /></a>  
+
+
+ 
+ 
+
+
 </p>  
 
 <br> 
@@ -47,7 +46,7 @@
 ![Metrics](https://metrics.lecoq.io/shakilahmedatik?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
 <h2>Support Me <img src = "https://media2.giphy.com/media/RJgjFf46V4KVa1l42A/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
-<p><a href="https://www.buymeacoffee.com/atik"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="atik" /></a></p>
+<p><a href="https://www.buymeacoffee.com/somel"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="atik" /></a></p>
 
 
 ![Waves](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg)
