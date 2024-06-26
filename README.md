@@ -5,7 +5,7 @@
 </div>
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=ProgSomel&label=Profile%20views&color=0e75b6&style=flat" alt="ProgSomel" /> </span> 
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/ProgSomel/ProgSomel/main/hi.gif" width="50px" height="50px">, I'm Somel</h1>  
-<h3 align="center">A passionate Software Engineer from 🇧🇩</h3>  
+<h3 align="center">A passionate Software Engineer from Bangladesh</h3>  
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ProgSomel&" alt="ProgSomel" /></p>
 <br>
 
@@ -15,7 +15,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🌱 I’m currently learning TypeScript, React.js & Next.js
+- 🌱 I’m currently learning Svelte KIT
 
 - 💬 Talk to me about React, Node, Python, JavaScript, Freelancing Opportunities etc.
  - 📫 Reach me at **somelahmed55@gmail.com**  
