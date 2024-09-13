@@ -15,7 +15,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🌱 I’m currently learning Svelte KIT
+- 🌱 I’m currently learning Cyber Security and Ethical Hacking
 
 - 💬 Talk to me about React, Node, Python, JavaScript, Freelancing Opportunities etc.
  - 📫 Reach me at **somelahmed55@gmail.com**  
