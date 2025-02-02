@@ -15,9 +15,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🌱 I’m currently learning Cyber Security and Ethical Hacking
+- 🌱 I’m currently learning Go language
 
-- 💬 Talk to me about React, Node, Python, JavaScript, Freelancing Opportunities etc.
+- 💬 Talk to me about React.js, Node.js, JavaScript, TypeScript, Freelancing Opportunities etc.
  - 📫 Reach me at **somelahmed55@gmail.com**  
 
 <br>
