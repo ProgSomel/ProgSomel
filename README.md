@@ -15,10 +15,10 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🌱 I’m currently learning Go language
+- 🌱 I’m currently learning Golang
 
 - 💬 Talk to me about React.js, Node.js, JavaScript, TypeScript, Freelancing Opportunities etc.
- - 📫 Reach me at **somelahmed55@gmail.com**  
+ - 📫 Reach me at **somelahmed.prog@gmail.com**  
 
 <br>
   
